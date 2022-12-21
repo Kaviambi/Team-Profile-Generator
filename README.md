@@ -38,7 +38,7 @@ THEN I exit the application, and the HTML is generated
 
 The following image shows a mock-up of the generated HTML’s appearance and functionality:
 
-![HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.](./Assets/10-object-oriented-programming-homework-demo.png)
+![Demo Screenshot](./images/Demo.png)
 
 Our application should use [Jest](https://www.npmjs.com/package/jest) for running the unit tests and [Inquirer](https://www.npmjs.com/package/inquirer/v/8.2.4) for collecting input from the user. The application will be invoked by using the following command:
 
@@ -93,4 +93,6 @@ In addition to `Employee`'s properties and methods, `Intern` will also have the 
 
 * `getRole()`&mdash;overridden to return `'Intern'`
 
-![Screenshot](./images/)
+![Test pass](./images/screenshot1.JPG)
+![commandline](./images/screenshot2.JPG)
+![indexfile](./images/screenshot3.JPG)
