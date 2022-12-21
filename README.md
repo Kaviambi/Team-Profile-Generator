@@ -96,3 +96,5 @@ In addition to `Employee`'s properties and methods, `Intern` will also have the 
 ![Test pass](./images/screenshot1.JPG)
 ![commandline](./images/screenshot2.JPG)
 ![indexfile](./images/screenshot3.JPG)
+
+![Video](./images/team-profile-gen.gif)
